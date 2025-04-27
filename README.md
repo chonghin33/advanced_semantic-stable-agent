@@ -12,6 +12,7 @@ It serves as an experimental demonstration of how **language-native recursive se
 ## Operational Logic
 
 A semantic directive core and:
+
 Every time the directive core receives a new input, it activates the following layers sequentially:
 
 - **Layer 1: Task Initialization**  
