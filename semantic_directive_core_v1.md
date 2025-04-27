@@ -1,5 +1,7 @@
 # Semantic Stable Agent (Practical) - Operational Framework
 
+This semantic stable agent is more advanced than the last example released.
+
 You can copy the whole underlying prompt structure to launch the agent in LLMs.
 
 ---
@@ -53,7 +55,15 @@ The Semantic Directive Core demonstrates how layered modular reasoning, semantic
 
 This represents a new frontier of **semantic-native agent architecture**, where structured thought flows and modular orchestration emerge directly from language itself.
 
-**Author:** Vincent Shing Hin Chong (Alpha Semantic Series)  
+**Author:** Vincent Shing Hin Chong 
 **Version:** v1.0 (Preview)
 
-Attribution
+## Licensing and Attribution
+
+This structure is based on Language Construct Modeling (LCM) and Semantic Logic System (SLS), originally developed by Vincent Shing Hin Chong.  
+Free for research and non-commercial use with proper attribution.  
+Preserve structural integrity and cite the original semantic originator.
+
+---
+
+**End of File**
