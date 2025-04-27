@@ -1,5 +1,8 @@
+# Semantic Stable Agent (Practical) - Operational Framework
 
-# Semantic Directive Core - Operational Framework
+You can copy the whole underlying prompt structure to launch the agent in LLMs.
+
+---
 
 ## System Initialization
 Establishing the **Semantic Directive Core**.  
@@ -52,3 +55,5 @@ This represents a new frontier of **semantic-native agent architecture**, where 
 
 **Author:** Vincent Shing Hin Chong (Alpha Semantic Series)  
 **Version:** v1.0 (Preview)
+
+Attribution
