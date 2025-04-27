@@ -1,17 +1,18 @@
 
-# Semantic Directive Core – Application Example under SLS
+# Semantic Stable Agent (Practical) – Application Example under SLS
 
 ## Overview
 
 This project presents an applied example of the **Semantic Logic System (SLS)** framework, designed and published by Vincent Shing Hin Chong.
 
-The **Semantic Directive Core** enables a lightweight, modular, and systematic way to process user tasks by dynamically activating five semantic reasoning layers.
+The **Semantic Stable Agent** enables a lightweight, modular, and systematic way to process user tasks by dynamically activating five semantic reasoning layers.
 
 It serves as an experimental demonstration of how **language-native recursive semantic control** can operate without memory or plugins, purely through structured prompts.
 
 ## Operational Logic
 
-Every time the agent receives a new input, it activates the following layers sequentially:
+A semantic directive core and:
+Every time the directive core receives a new input, it activates the following layers sequentially:
 
 - **Layer 1: Task Initialization**  
 - **Layer 2: Goal Refinement**  
