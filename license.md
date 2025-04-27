@@ -17,5 +17,5 @@ License details: [https://creativecommons.org/licenses/by/4.0/](https://creative
 ---
 
 **Author / Original Creator**:  
-Vincent Shing Hin Chong (Vince Vangohn)  
+Vincent Shing Hin Chong  
 Release Date: 2025
