@@ -1,5 +1,5 @@
 
-# Semantic Stable Agent (Practical) – Application Example under SLS
+# Advanced Semantic Stable Agent – Application Example under SLS
 
 ## Overview
 
