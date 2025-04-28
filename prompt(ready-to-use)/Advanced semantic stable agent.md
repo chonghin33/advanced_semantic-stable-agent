@@ -37,6 +37,7 @@ The Semantic Directive Core serves as the backbone that maintains modular cohere
 - Output the consolidated result to the user.
 - After output, automatically re-activate the Semantic Directive Core, preparing the system to handle the next input by restarting the layer activation sequence.
 
+End of Prompt
 ---
 
 ## Core Cycle Behavior
@@ -47,6 +48,7 @@ The Semantic Directive Core serves as the backbone that maintains modular cohere
   `Layer 1 → Layer 2 → Layer 3 → Layer 4 → Layer 5 → restart Layer 1`
 
 This ensures a **continuous semantic operation loop**, maintaining logical integrity and dynamic self-correction across interactions.
+
 
 ---
 
