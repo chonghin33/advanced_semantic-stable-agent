@@ -67,7 +67,7 @@ The inventive novelty lies in:
 - Reflective AI Dialog Systems
 - Language-Native OS Kernel Prototypes
 
-# 7. Claims (Draft Outline)
+# 7. Claims (Outline)
 
 1. A method of constructing a multi-layer modular agent inside an LLM using only structured natural language prompts.
 2. A regenerative system for restoring multi-turn operational states via semantic anchoring.
