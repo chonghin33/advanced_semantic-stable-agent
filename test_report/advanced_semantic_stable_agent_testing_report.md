@@ -1,7 +1,7 @@
 # Advanced Semantic Stable Agent – External Testing Report
 
 **Testing Date:** 2025-04-28  
-**Version:** Semantic Directive Core v1.0 (Ready-to-Use Deployment)  
+**Version:** Semantic Directive Core v1.0 (Ready-to-Use Prompt)  
 **Prepared by:** Vincent Chong  
 
 ---
