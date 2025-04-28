@@ -1,6 +1,6 @@
 # Technical Invention Whitepaper 
 
-**Title:** Advanced Semantic Stable Agent (ASSA) - A Fully Language-Native Modular Execution System for LLMs
+**Title:** Advanced Semantic Stable Agent (ASSA) - A Fully Language-Native Modular Execution System for LLMs (Built by SLS)
 
 **Inventor:** Vincent Shing Hin Chong (aka Vince Vangohn)
 
