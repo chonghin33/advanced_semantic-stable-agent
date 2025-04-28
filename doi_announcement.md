@@ -1,10 +1,10 @@
 # 📢 DOI Registration Announcement
 
 **Project Title:**  
-Advanced Semantic Stable Agent in LLMs — Language Architecture by SLS (Semantic Logic System)
+Advanced Semantic Stable Agent for LLMs — Language Architecture Powered by SLS (Semantic Logic System)
 
 **Author:**  
-Vincent Shing Hin Chong (Vince Vangohn)
+Vincent Shing Hin Chong 
 
 **DOI Assigned:**  
 [10.17605/OSF.IO/Y9875](https://doi.org/10.17605/OSF.IO/Y9875)
