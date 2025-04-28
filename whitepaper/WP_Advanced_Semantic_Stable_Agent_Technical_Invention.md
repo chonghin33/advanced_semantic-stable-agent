@@ -2,7 +2,7 @@
 
 **Title:** Advanced Semantic Stable Agent (ASSA) - A Fully Language-Native Modular Execution System for LLMs (Built by SLS)
 
-**Inventor:** Vincent Shing Hin Chong (aka Vince Vangohn)
+**Inventor:** Vincent Shing Hin Chong 
 
 **Date of Invention Disclosure:** April 28, 2025
 
